@@ -1,0 +1,14 @@
+{
+  "name": "react-transition-group-2-and-react-router-4-page-fade-transition-example",
+  "version": "1.0.0",
+  "description": "- React Transition Group 2\n- React Router 4\n- Css animations",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react-transition-group": "2.2.0",
+    "react-router-dom": "4.1.1",
+    "react-dom": "15.6.1",
+    "react": "15.6.1"
+  },
+  "homepage": "http://204.48.16.247"
+}

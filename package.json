@@ -1,19 +1,20 @@
 {
-  "name": "smart",
+  "name": "Smart",
+  "description": "Smart Agency",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
-    "bootstrap": "^4.1.0",
-    "react": "^16.3.2",
-    "react-bootstrap": "^0.32.1",
-    "react-bootstrap-carousel": "^2.3.0",
-    "react-dom": "^16.3.2",
-    "react-responsive-carousel": "^3.1.36",
-    "react-router-dom": "^4.2.2",
-    "react-router-page-transition": "^3.1.0",
-    "react-scripts": "1.1.4",
-    "react-window-size": "^1.0.1",
-    "reactstrap": "^5.0.0-beta.3"
+    "jquery": "^3.3.1",
+    "lightbox-react": "^0.1.5",
+    "react": "15.6.1",
+    "react-burger-menu": "^2.4.4",
+    "react-dom": "15.6.1",
+    "react-router-dom": "4.1.1",
+    "react-slick": "^0.23.1",
+    "react-transition-group": "2.2.0",
+    "scroll-to-element": "^2.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
